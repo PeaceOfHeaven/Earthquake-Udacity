@@ -1,5 +1,8 @@
 Quake Report App
 ===================================
+This app is the result of my learning in Android Basics: Networking
+course at Udacity
+https://www.udacity.com/course/android-basics-networking--ud843
 
 This app displays a list of recent earthquakes in the world
 from the U.S. Geological Survey (USGS) organization.
@@ -12,9 +15,9 @@ http://earthquake.usgs.gov/fdsnws/event/1/
 Pre-requisites
 --------------
 
-- Android SDK v23
-- Android Build Tools v23.0.2
-- Android Support Repository v23.3.0
+- Android SDK v25
+- Android Build Tools v25.0.2
+- Android Support Repository v25.0.2
 
 Getting Started
 ---------------
